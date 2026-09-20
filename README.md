@@ -23,7 +23,7 @@
  <h1>Etherpedia By 2077 Collective</h1>
 </div>
 
-[Etherpedia](https://etherpedia.2077.xyz) is a comprehensive encyclopedia for the Ethereum ecosystem. Designed for both beginners and enthusiasts, it offers in-depth knowledge on a wide range of topics including MEV, Proof of Stake, Rollup Scaling, and Distributed Validator Technology (DVT). Explore and understand everything about Ethereum and its core technologies.
+[Etherpedia](https://etherpedia.2077collective.xyz) is a comprehensive encyclopedia for the Ethereum ecosystem. Designed for both beginners and enthusiasts, it offers in-depth knowledge on a wide range of topics including MEV, Proof of Stake, Rollup Scaling, and Distributed Validator Technology (DVT). Explore and understand everything about Ethereum and its core technologies.
 
 
 ## Contributing to Etherpedia
@@ -56,4 +56,3 @@ All contents are under the [CC0 LICENSE](./LICENSE) and in the public domain unl
 If you need help or have questions, please open an issue or reach out on our [discord](http://discord.gg/2077collective).
 
 Thank you for your contributions!
-

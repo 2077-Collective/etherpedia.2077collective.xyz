@@ -7,6 +7,6 @@ import pagefind from "astro-pagefind";
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://etherpedia.2077.xyz",
+  site: "https://etherpedia.2077collective.xyz",
   integrations: [mdx(), sitemap(), tailwind(), pagefind()],
 });

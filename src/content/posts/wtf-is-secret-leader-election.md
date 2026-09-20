@@ -27,7 +27,7 @@ Leader elections are crucial in decentralized systems and must be done in a fair
 ## What’s With All The Secrecy?
 
 In the simplest (non-secret) approach, validators could take turns to be the leader in a round-robin fashion. However, this opens up room for abuse.
-For example, a malicious proposer may profit by carrying out a [Denial of Service (DOS) attack](https://etherpedia.2077.xyz/posts/denial-of-service-attack-on-ethereum/) on the proposer just before and grabbing all of the victim’s tips for themselves. This is especially problematic for smaller “home stakers” who may not be able to afford sophisticated levels of protection against such attacks.
+For example, a malicious proposer may profit by carrying out a [Denial of Service (DOS) attack](https://etherpedia.2077collective.xyz/posts/denial-of-service-attack-on-ethereum/) on the proposer just before and grabbing all of the victim’s tips for themselves. This is especially problematic for smaller “home stakers” who may not be able to afford sophisticated levels of protection against such attacks.
 
 Thus, **a good election mechanism must ensure that the vote is not only conducted fairly and with sufficient randomness** — this way an attacker will not be able to overwhelm the network leader with spam.
 
